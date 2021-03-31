@@ -8,7 +8,10 @@
 
 
 ## Introduction 📋
-Este proyecto es una prueba de integración de GitHub con Slack.
+This project is a test of integration of GitHub with Slack.
+
 ## Integration 🔨
-Agregamos la aplicación de GitHub a Slack y enlazamos el repositorio con la aplicación de GitHub para Slack.
+We add the GitHub's app on Slack and link the repository inside one of the channels who has the GitHub's app.
+To connect the repository and slack we use the command /github subscribe https://github.com/JManuelIzRa/sistemas-informacion.
+
 ## Tests 🛠️
